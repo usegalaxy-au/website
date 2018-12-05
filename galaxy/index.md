@@ -2,7 +2,7 @@
 layout: galaxy
 ---
 
-{% include home_quote.html %}
+{% include galaxy_aus_welcome.html %}
 {% include home_news_events-galaxy.html %}
 {% include jobs_graph.html %}
 {% include home_carousel.html %}

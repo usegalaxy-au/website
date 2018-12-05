@@ -1,142 +1,27 @@
-freiburg:
-    bgruening:
-        name: Björn Grüning
-        title: Dr. rer. nat., Researcher, Head of the Team
-        email: gruening@informatik.uni-freiburg.de
-        phone: +49(0) 761 - 203 54130
-        location: "Build.: 079, Room: -1006"
-        gitter: bgruening
-        twitter: bjoerngruening
-        linkedin: bjorn-grüning-2b84a895
-        orcid: 0000-0002-3079-6586
-        google-scholar: lddXduoAAAAJ
-        researchgate: Bjoern_Gruening
+GalaxyAustralia:
+    gareth_price:
+        name: Gareth Price
+        title: Program Manager, Galaxy Australia
+        email: gprice@uq.edu.au
         bio:
-
-    bebatut:
-        name: Bérénice Batut
-        title: Ph.D., Researcher
-        website: http://research.bebatut.fr
-        email: bebatut@informatik.uni-freiburg.de
-        phone: +49(0) 761 - 203 54126
-        location: "Build.: 079, Room: -1005a"
-        gitter: bebatut
-        twitter: bebatut
-        linkedin: berenicebatut
-        orcid: 0000-0001-9852-1987
-        google-scholar: q5GpTJYAAAAJ
-        researchgate: Berenice_Batut
+    slugger70:
+        name: Simon Gladman
+        title: Bioinformatician, Developer, Galaxy Australia
+        email: simon.gladman@unimelb.edu.au
+        phone: +61 3 8344 4803
+        location: "187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
+        gitter: slugger70
+        twitter: simongladman1
+        orcid: 0000-0002-6100-4385
         bio:
-
-    erxleben:
-        name: Anika Erxleben
-        title: Dr. rer. nat., Researcher
-        email: erxleben@informatik.uni-freiburg.de
-        phone: +49(0) 761 - 203 54129
-        location: "Build.: 079, Room: -1006"
+    dnbenso:
+        name: Derek Benson
+        title: Systems Administrator, Galaxy Australia
+        email: d.benson@uq.edu.au
+        gitter: dnbenso
         bio:
-
-    wm75:
-        name: Wolfgang Maier
-        title: Dr. phil. nat., Researcher
-        email: maierw@informatik.uni-freiburg.de
-        phone: +49(0) 761 - 203 54133
-        location: "Build.: 079, Room: -1005a"
-        gitter: wm75
+    igor_makunin:
+        name: Igor Makunin
+        title: User Outreach, Bioinformatician, Galaxy Australia
+        email: some@somewhere.com
         bio:
-
-    erasche:
-        name: Helena Rasche
-        title: B.Sc. Biochem., Technician
-        email: hxr@informatik.uni-freiburg.de
-        phone: +49(0) 761 - 203 54128
-        location: "Build.: 079, Room: -1005a"
-        gitter: erasche
-        orcid: 0000-0001-9760-8992
-        galaxyadmin: true
-
-    joachimwolff:
-        name: Joachim Wolff
-        title: M.Sc. Inf., Researcher
-        email: wolffj@informatik.uni-freiburg.de
-        phone: +49(0) 761 - 203 54132
-        location: "Build.: 079, Room: -1005"
-        bio:
-
-    mtekman:
-        name: Mehmet Tekman
-        title: Ph.D., Researcher
-        email: tekman@informatik.uni-freiburg.de
-        phone: +49(0) 761 - 203 54134
-        location: "Build.: 079, Room: -1005"
-        bio:
-
-    anuprulez:
-        name: Anup Kumar
-        title: M.Sc. Inf., Researcher
-        email: kumara@informatik.uni-freiburg.de
-        phone: +49(0) 761 - 203 54131
-        location: "Build.: 079, Room: -1005"
-        bio:
-
-    rolfbackofen:
-        name: Rolf Backofen
-        title: Prof. Dr., Head of the Lab
-        email: backofen@informatik.uni-freiburg.de
-        phone: +49(0) 761 - 203 7460
-        location: "Build.: 101"
-        twitter: backofenlab
-        orcid: 0000-0001-8231-3323
-        google-scholar: ZCTrqQkAAAAJ
-        researchgate: Rolf_Backofen
-        bio:
-
-erasmusmc:
-    andrew-emc:
-        name: Andrew Stubbs
-        title: Assistant Professor
-        email: a.stubbs@erasmusmc.nl
-        phone: +31(0) 10 70 44776
-        location: Ee-1579a
-    yunleili:
-        name: Yunlei Li
-        title: Dr.ir.
-        email: y.li.1@erasmusmc.nl
-        phone: +31(0) 70 44551
-        location: Ee-1579
-    shiltemann:
-        name: Saskia Hiltemann
-        title: Researcher
-        email: saskia.hiltemann@gmail.com
-        phone: +31(0) 10 70 43235
-        location: Ee-1579
-        twitter: shiltemann
-        gitter: shiltemann
-        linkedin: shiltemann
-        orcid: 0000-0003-3803-468X
-        galaxyadmin: true
-    yhoogstrate:
-        name: Youri Hoogstrate
-        title: Researcher
-        email: y.hoogstrate@erasmusmc.nl
-        phone: +31(0) 10 70 43235
-        location: Ee-1579
-        gitter: yhoogstrate
-    davidvanzessen:
-        name: David van Zessen
-        title: Developer
-        email: d.vanzessen@erasmusmc.nl
-        phone: +31(0) 10 70 44551
-        location: Ee-1579
-    rjansen1984:
-        name: Rick Jansen
-        title: Developer
-        email: r.jansen.1@erasmusmc.nl
-        phone: +31(0) 10 70 32460
-        location: Ee-1579
-    shorsman:
-        name: Bas Horsman
-        title: Developer
-        email: s.horsman@erasmusmc.nl
-        phone: +31(0) 70 32460
-        location: Ee-1579

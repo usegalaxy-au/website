@@ -1,8 +1,8 @@
 ---
-- title: UseGalaxy.eu Galaxy Upgrade to 18.09
+- title: Galaxy Australia is now at Galaxy version 18.09
   class: info
-  site: freiburg
+  site: galaxy
   messages:
       - message: |
-          On Tuesday, 2018-12-11, we will upgrade the UseGalaxy.eu server to 18.09. We plan for 4 hours of downtime, lasting from 13 CET to 17 CET.
-        date: 2018-11-29 13:53:18+01:00
+          We have recently ugraded Galaxy Australia to the most recent release. We hope you like it. If you find any problems please don't hesitate to contact us at help@genome.edu.au
+        date: 2018-12-05 11:34:09+11:00
