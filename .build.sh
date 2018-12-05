@@ -1,9 +1,9 @@
 #!/bin/bash
-set -ex
-source /usr/local/rvm/environments/ruby-2.4.1
+#set -ex
+#source /Users/simongladman/miniconda3/envs/galaxy_training_material/bin/ruby
 
 ruby --version
-rvm --version
+#rvm --version
 gem --version
 
 gem install bundler
