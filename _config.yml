@@ -17,12 +17,12 @@ title: "Galaxy Australia"
 description: The Australian Galaxy Instance
 email: contact@usegalaxy.org.au
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://usegalaxy.org.au" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://usegalaxy-au.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: galaxyaustralia
 github_username:  usegalaxy-au
 blurb:
     UseGalaxy.org.au is maintained largely by the [Australian Galaxy
-    Team](/people/) including staff from QCIF, UQ-RCC and Melbourne Bioinformatics.
+    Team](/people) including staff from QCIF, UQ-RCC and Melbourne Bioinformatics.
 
     All content on this site is available under
     [CC0-1.0](https://creativecommons.org/share-your-work/public-domain/cc0/),
