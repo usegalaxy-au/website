@@ -5,6 +5,7 @@ layout: galaxy
 {% include galaxy_aus_welcome.html %}
 {% include home_news_events-galaxy.html %}
 {% include jobs_graph.html %}
+<br />
 {% include home_carousel.html %}
 
 {% include home_done.html %}
