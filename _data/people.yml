@@ -1,5 +1,5 @@
 GalaxyAustralia:
-    gareth_price:
+    GarethPrice-Aus:
         name: Gareth Price
         title: Program Manager, Galaxy Australia
         email: gprice@uq.edu.au
@@ -16,7 +16,7 @@ GalaxyAustralia:
         bio:
     dnbenso:
         name: Derek Benson
-        title: Systems Administrator, Galaxy Australia
+        title: Systems Administrator, Developer, Galaxy Australia
         email: d.benson@uq.edu.au
         gitter: dnbenso
         bio:

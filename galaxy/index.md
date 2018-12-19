@@ -11,7 +11,7 @@ layout: galaxy
 
 <script>
   ((window.gitter = {}).chat = {}).options = {
-    room: 'usegalaxy-eu/Lobby'
+    room: 'usegalaxy-au/Lobby'
   };
 </script>
 <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
