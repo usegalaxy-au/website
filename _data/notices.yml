@@ -1,16 +1,8 @@
 ---
-- title: Support over summer holiday break
+- title: Galaxy Australia scheduled maintenance
   class: info
   site: galaxy
   messages:
       - message: |
-          Galaxy Australia will be minimally administered during the university shutdown period from 24th December 2019 to the 2nd January 2019.
-          During this time, only essential maintenance will be performed. No disk quota modifications, tool installations or reference data installation or upgrades will be performed.
-        date: 2018-12-20 10:38:42+11:00
-- title: Galaxy Australia is now at Galaxy version 18.09
-  class: info
-  site: galaxy
-  messages:
-      - message: |
-          We have recently ugraded Galaxy Australia to the most recent release. We hope you like it. If you find any problems please don't hesitate to contact us at help@genome.edu.au
-        date: 2018-12-05 11:34:09+11:00
+          Galaxy Australia will be down for maintenance on the 20th February 2019 for approximately 2 hours from 10:00 AEDT
+        date: 2019-02-12 13:20:50
