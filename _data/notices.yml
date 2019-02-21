@@ -1,8 +1,7 @@
 ---
-- title: Galaxy Australia scheduled maintenance
+- title: Galaxy Australia and Galaxy 19.01
   class: info
   site: galaxy
   messages:
       - message: |
-          Galaxy Australia will be down for maintenance on the 20th February 2019 for approximately 2 hours from 10:00 AEDT
-        date: 2019-02-12 13:20:50
+          Galaxy Australia will soon be upgraded to Galaxy version 19.01 upon it's release. We will provide more information including new features and bug fixes when that occurs.

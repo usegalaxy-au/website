@@ -1,15 +1,20 @@
 GalaxyAustralia:
     GarethPrice-Aus:
         name: Gareth Price
-        title: Program Manager, Galaxy Australia
-        email: gprice@uq.edu.au
+        title: Service Manager, Galaxy Australia
+        email: gprice@qfab.edu
+        phone: +61 7 3346 2638
+        location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
+        gitter: GarethPrice-Aus
+        twitter: DrGPrice
+        orcid: 0000-0003-2439-8650
         bio:
     slugger70:
         name: Simon Gladman
         title: Bioinformatician, Developer, Galaxy Australia
         email: simon.gladman@unimelb.edu.au
         phone: +61 3 8344 4803
-        location: "187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
+        location: "Melbourne Bioinformatics, 187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
         gitter: slugger70
         twitter: simongladman1
         orcid: 0000-0002-6100-4385
@@ -18,16 +23,30 @@ GalaxyAustralia:
         name: Derek Benson
         title: Systems Administrator, Developer, Galaxy Australia
         email: d.benson@uq.edu.au
+        phone: +61 7 3666 2276
+        location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
+        twitter: dnbenso
         gitter: dnbenso
         bio:
-    igor_makunin:
-        name: Igor Makunin
-        title: User Outreach, Bioinformatician, Galaxy Australia
-        email: some@somewhere.com
+    igormakunin:
+        name: Dr Igor Makunin
+        title: eResearch Analyst - Bioinformatics, User Outreach, Galaxy Australia
+        email: i.makunin@uq.edu.au
+        phone: +61 7 3346 2276
+        location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
         bio:
-    AnnaSyme:
-        name: Anna Syme
-        title: Training Manager/Co-ordinatior, Galaxy Australia
-        email: anna.syme@unimelb.edu.au
-        twitter: annasyme
+    ChristinaAU:
+        name: Christina Hall
+        title: Training Co-ordinatior, Galaxy Australia
+        email: crhall@unimelb.edu.au
+        location: "Melbourne Bioinformatics, 187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
+        twitter: GalaxyAustralia
+        bio:
+    nuwang:
+        name: Nuwan Goonasekera
+        title: Developer, Galaxy Australia, Cloud Launch & The Genomics Virtual Lab
+        email: ngoonasekera@unimelb.edu.au
+        location: "Melbourne Bioinformatics, 187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
+        twitter: nuwan_ag
+        gitter: nuwang
         bio:

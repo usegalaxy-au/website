@@ -2,58 +2,52 @@
 layout: default
 ---
 
-# usegalaxy.eu
+# [usegalaxy.org.au](https://usegalaxy.org.au)
 
-Our Galaxy server ([https://usegalaxy.eu](https://usegalaxy.eu)) is the **biggest Galaxy instance in Europe**, and one of the biggest worldwide.
+The Galaxy Australia service is jointed maintained by QFAB (link) and Melbourne Bioinformatics (link) with funding from ARDC (managed by BPA) and ABC (links for all). The service allows Australian researchers access to:
 
-With this server we provide access to:
-- a huge compute and storage resource without any charge
-- more than 1000 different, well-documented and constantly maintained bioinformatics tools
-- 250 GB per user (500 GB for ELIXIR members)
-- free registration
+* a huge compute and storage resource without any charge
+* free registration
+* 600 GB for Australian researchers (100 GB for other registered users)
+* more than 600 different, well-documented and constantly maintained bioinformatics tools
+* no programming experience required
 
-When this effort is combined with our community-maintained workflows and our in-depth training material, it makes up for a truly productive work experience. We believe in enabling everyone to perform reproducible science.
-
----
-
-# <i class="fa fa-table"></i> Data Analysis for any Scientist
-
-**No programming knowledge** is required to access Galaxy and its tools with a web browser. It provides powerful data analyses and can replace Excel habits.
-
-The computation is automatically performed on a **cluster and on the de.NBI cloud**. Each user can store **250 GB** (500 GB for ELIXIR members) for analyses (and even more on request).
-
-For advanced users, [https://usegalaxy.eu](https://usegalaxy.eu) can be **programmatically accessed** via the API to leverage its cluster and data
-storage to scale beyond the visual interface and to automate the analyses. Novel analyses can also be developed right in the interface with **Galaxy Interactive Environments**: Jupyter notebooks, Ethercalc, HiCBrowser, ...
+Galaxy Australia maintains tools, workflows and reference datasets as requested by the Australian research community, making the platform the ideal place for Australian researchers to perform their analyses. If we do not currently support your specific application or species then we will endeavour to make it available, [just ask](https://docs.google.com/forms/d/e/1FAIpQLSdXuarvkzFA5kRqoCfO8uiUGAB0PplfR4yvAfpCPSpdMcehmA/viewform).
 
 ---
 
-# <i class="fa fa-chart-bar"></i> Visualization & Data Interpretation
+# <i class="fa fa-gears"></i>  UseGalaxy.*
 
-Publication-ready visualizations can be instantanously generated inside Galaxy. Charts with bar diagram, line charts, box plots, heatmaps, etc, but also scatterplot, Venn diagrams, and even more.
+**Galaxy Australia** is one of the large Galaxy servers that make up the **usegalaxy.*** initiative. Along with **Galaxy Europe** [usegalaxy.eu](https://usegalaxy.eu) and **Galaxy Main** in the USA [usegalaxy.org](https://usegalaxy.org), the **usegalaxy.*** servers aim to provide a global publicly available bioinformatics resource, present a similar look and feel, similar installed tool sets and reference data and indices.
 
-To dig deeper, **interactive visualizations** are available:
-
-- Integrated Genome Browser: Trackster
-- Phinch for BIOM files, Circos, JBrowser, IGV, ...
+We do this via a network of globally distributed reference servers using the CernVM-FS and a few public git repositories. For more information on usegalaxy.* see the [Galaxy Project Community Hub](https://galaxyproject.org/usegalaxy/)
 
 ---
 
-# <i class="fa fa-cogs"></i> Tools for any Bioinformatics Analysis
+# <i class="fa fa-area-chart"></i> Visualisation & Data Interpretation
 
-More than 1,000 bioinformatics tools can be accessed via [https://usegalaxy.eu](https://usegalaxy.eu), covering most of the bioinformatics topics:
+Publication-ready visualisations can be instantly generated inside Galaxy. A variety of chart options (bar diagram, line charts, box plots) are available as default on any dataset capable of being graphed. Complex visualisation such as heatmaps, Venn diagrams, Krona plots can be made within Galaxy.
 
-![Tools available on usegalaxy.eu](/assets/media/tools.png)
+To explore -omics data, interactive visualisations are available:
 
-The tools and analysis pipelines are regularly updated.
+* Integrated Genome Browser: Trackster
+* JBrowse, IGV
 
 ---
 
 # <i class="fa fa-sitemap"></i> Reproducibility & Transparency
 
-The history is the foundation of **reproducibility and transparency** in Galaxy. It capture inputs, parameters, and versions of the used tools. It can be shared with everyone, even outside.
+The Galaxy platform is built on a foundation of reproductivity and transparency. All manipulations of your data, from upload through to results and export are captured and easily documented for your long-term records. Citation lists associated with tools used is a one click activity.
 
-Galaxy provides also a **powerful workflow system**. Workflows can be created by extraction of workflows from histories or from scratch with drag-and-drop. They are downloadable and sharable with everyone, no vendor lock-in.
+Galaxy provides also a **powerful workflow system**. Workflows can be created by extraction of tools used from histories or built from scratch on an easy to use drag-and-drop canvas. Workflows are downloadable and sharable with everyone and contain all the necessary information to run the workflow, even as tools update (you get a time-locked workflow if tool versioning is a concern).
 
 The thousands of tools are available with fixed versions and are managed by [Bioconda](https://bioconda.github.io/) and [BioContainers](https://biocontainers.pro/).
 
-4 TB of reference data are available on [https://usegalaxy.eu](https://usegalaxy.eu) providing access to hundreds of reference genomes.
+4 TB of reference data are available on [https://usegalaxy.org.au](https://usegalaxy.org.au) providing access to hundreds of reference genomes.
+
+---
+
+# <i class="fa fa-mortar-board"></i> Citing Galaxy Australia.
+
+
+If your use of Galaxy Australia leads to a publication we are always happy to hear about it and would be happy to promote your work through the service. Email your success stories to the Service Manager (Dr Gareth Price, [g.price@qfab.org](mailto://g.price@qfab.org)).
