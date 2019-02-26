@@ -1,7 +1,7 @@
 ---
 site: freiburg
 title: 'New Tools Added: Gemini Tools'
-tags: [tool]
+tags: [tools]
 external: https://github.com/arq5x/gemini
 ---
 

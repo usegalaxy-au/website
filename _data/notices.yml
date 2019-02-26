@@ -1,7 +1,7 @@
 ---
-- title: Galaxy Australia and Galaxy 19.01
+- title: New tools added
   class: info
   site: galaxy
   messages:
       - message: |
-          Galaxy Australia will soon be upgraded to Galaxy version 19.01 upon it's release. We will provide more information including new features and bug fixes when that occurs.
+          We have recently added some heatmapping and chimera detection tools to Galaxy Australia. See news item for details
