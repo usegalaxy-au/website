@@ -1,7 +1,7 @@
 GalaxyAustralia:
     GarethPrice-Aus:
         name: Gareth Price
-        title: Service Manager, Galaxy Australia
+        title: PhD, Service Manager, Galaxy Australia
         email: gprice@qfab.org
         phone: +61 7 3346 2638
         location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
@@ -24,27 +24,27 @@ GalaxyAustralia:
         title: Systems Administrator, Developer, Galaxy Australia
         email: d.benson@uq.edu.au
         phone: +61 7 3666 2276
-        location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
+        location: "UQ - RCC, St Lucia QLD 4067"
         twitter: dnbenso
         gitter: dnbenso
         bio:
     igormakunin:
-        name: Dr Igor Makunin
-        title: eResearch Analyst - Bioinformatics, User Outreach, Galaxy Australia
+        name: Igor Makunin
+        title: PhD, eResearch Analyst - Bioinformatics, User Outreach, Galaxy Australia
         email: i.makunin@uq.edu.au
         phone: +61 7 3346 2276
         location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
         bio:
     ChristinaAU:
         name: Christina Hall
-        title: Training Co-ordinatior, Galaxy Australia
+        title: PhD, Training Co-ordinatior, Galaxy Australia
         email: crhall@unimelb.edu.au
         location: "Melbourne Bioinformatics, 187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
         twitter: GalaxyAustralia
         bio:
     nuwang:
         name: Nuwan Goonasekera
-        title: Developer, Galaxy Australia, Cloud Launch & The Genomics Virtual Lab
+        title: PhD, Developer, Galaxy Australia, Cloud Launch & The Genomics Virtual Lab
         email: ngoonasekera@unimelb.edu.au
         location: "Melbourne Bioinformatics, 187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
         twitter: nuwan_ag

@@ -1,5 +1,5 @@
 ---
-site: erasmusmc
+site: freiburg
 tags: [training]
 title: GTN CoFest on Metagenomics Training Material
 starts: 2018-08-17

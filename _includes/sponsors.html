@@ -48,6 +48,23 @@
                     <a href="https://ardc.edu.au/" target="_blank">
                         <img alt="ardc Logo" src="/assets/media/ardc_built-1.png" class="img-responsive eu-image" />
                     </a>
+                {% elsif supporter_lower == "galaxyaustralia" %}
+                    <a href="https://usegalaxy-au.github.io/" target="_blank">
+                        <img alt="galaxy australia logo" src="/assets/media/Galaxy_australia_white.png" class="img-responsive eu-image" />
+                    </a>
+                {% elsif supporter_lower == "qfab" %}
+                    <a href="https://www.qfab.org" target="_blank">
+                        <img alt="qfab_logo" src="/assets/media/qfab.jpeg" class="img-responsive eu-image" />
+                    </a>
+                {% elsif supporter_lower == "emblabr" %}
+                    <a href="https://www.embl-abr.org.au" target="_blank">
+                        <img alt="embl-abr_logo" src="/assets/media/embl-australia-resource-logo.jpg" class="img-responsive eu-image" />
+                    </a>
+
+                {% elsif supporter_lower == "galaxyproject" %}
+                    <a href="https://galaxyproject.org" target="_blank">
+                        <img alt="galaxy-project_logo" src="/assets/media/galaxy_project_logo.jpg" class="img-responsive eu-image" />
+                    </a>
                 {% else %}
                     {{ supporter }}
                 {% endif %}

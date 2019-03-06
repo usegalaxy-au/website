@@ -1,7 +1,7 @@
 ---
 site: freiburg
 title: 'Tutorial of the Month: Prokka'
-tags: [devops]
+tags: [training]
 supporters:
     - melbinfo
     - qcif
