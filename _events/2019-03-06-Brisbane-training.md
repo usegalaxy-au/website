@@ -19,7 +19,7 @@ supporters:
  - emblabr
 ---
 
-The Translational Research Institute (TRI) in association with Galaxy Australia are running 5 x 1 day long workshops on various analysis techniques using Galaxy Australia. These workshops will be run at the Translational Research Institute in Woolloongabba, Brisbane, Queensland.
+The Translational Research Institute (TRI) in association with QFAB and Galaxy Australia are running 5 x 1 day long workshops on various analysis techniques using Galaxy Australia. These workshops will be run at the Translational Research Institute in Woolloongabba, Brisbane, Queensland.
 
 <br/>
 <style>
