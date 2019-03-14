@@ -6,7 +6,7 @@ starts: 2019-04-01
 ends: 2018-04-05
 organiser:
   name: QFAB
-  email: help@genome.edu.au
+  email: training@qfab.org
 location:
   name: Translational Research Institute (TRI)
   street: 37 Kent St
@@ -19,7 +19,7 @@ supporters:
  - emblabr
 ---
 
-The Translational Research Institute (TRI) in association with QFAB and Galaxy Australia are running 5 x 1 day long workshops on various analysis techniques using Galaxy Australia. These workshops will be run at the Translational Research Institute in Woolloongabba, Brisbane, Queensland.
+The Queensland Facility for Advanced Bioinformatics (QFAB) in association with Galaxy Australia are running 5 x 1 day long workshops on various analysis techniques using Galaxy Australia. These workshops will be run at the Translational Research Institute in Woolloongabba, Brisbane, Queensland.
 
 <br/>
 <style>

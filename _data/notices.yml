@@ -1,7 +1,7 @@
 ---
-- title: New tools added
-  class: info
-  site: galaxy
-  messages:
-      - message: |
-          We have recently added some heatmapping and chimera detection tools to Galaxy Australia. See news item for details
+#- title: Galaxy Maintenance
+#  class: warning
+#  site: galaxy
+#  messages:
+#    - message: |
+#        Please note that Galaxy Australia will be down for maintenance from 11am AEST (12pm AEDT) today until 2pm AEST (4pm AEDT) today.
