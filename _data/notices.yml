@@ -1,7 +1,7 @@
 ---
-- title: Galaxy Maintenance
-  class: warning
-  site: galaxy
-  messages:
-    - message: |
-        Please note that Galaxy Australia will be down for maintenance from 7am AEST (8am AEDT) until 9am AEST (10am AEDT) Friday the 22nd of March.
+#- title: Galaxy Maintenance
+#  class: warning
+#  site: galaxy
+#  messages:
+#    - message: |
+#        Please note that Galaxy Australia will be down for maintenance from 7am AEST (8am AEDT) until 9am AEST (10am AEDT) Friday the 22nd of March.
