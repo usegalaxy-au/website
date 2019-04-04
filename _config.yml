@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Galaxy Australia"
 description: The Australian Galaxy Instance
-email: contact@usegalaxy.org.au
+email: help@genome.edu.au
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://usegalaxy-au.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: galaxyaustralia
