@@ -50,3 +50,16 @@ GalaxyAustralia:
         twitter: nuwan_ag
         gitter: nuwang
         bio:
+    thomcuddihy:
+        name: Thom Cuddihy
+        title: Developer, Galaxy Australia
+        email: t.cuddihy1@uq.edu.au
+        location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
+        twitter: thom88
+        bio:
+    Nick-Rhodes:
+        name: Nick Rhodes
+        title: Systems Administrator, Galaxy Australia
+        email: n.rhodes@qfab.org
+        location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
+        bio:

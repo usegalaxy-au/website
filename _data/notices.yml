@@ -1,7 +1,7 @@
 ---
-- title: Galaxy Maintenance
-  class: warning
-  site: galaxy
-  messages:
-    - message: |
-        Please note that Galaxy Australia will be down for maintenance from 8am AEST Sunday the 7th April until 10am AEST Monday the 8th of April. During this time no jobs will be run and the web interface will be unavailable.
+# - title: Derek is leaving.. :(
+#   class: warning
+#   site: galaxy
+#   messages:
+#     - message: |
+#         Derek is leaving us for greener pastures
