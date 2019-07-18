@@ -1,7 +1,7 @@
 ---
-# - title: Derek is leaving.. :(
-#   class: warning
-#   site: galaxy
-#   messages:
-#     - message: |
-#         Derek is leaving us for greener pastures
+- title: Temporary periods of unavailability
+  class: warning
+  site: galaxy
+  messages:
+    - message: |
+        Galaxy Australia is currently experiencing some temporary periods of unavailability due to a redundant hardware failure. This is being corrected as a priority. The service is not down and jobs are being processed.
