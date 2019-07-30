@@ -19,15 +19,6 @@ GalaxyAustralia:
         twitter: simongladman1
         orcid: 0000-0002-6100-4385
         bio:
-    dnbenso:
-        name: Derek Benson
-        title: Systems Administrator, Developer, Galaxy Australia
-        email: d.benson@uq.edu.au
-        phone: +61 7 3666 2276
-        location: "UQ - RCC, St Lucia QLD 4067"
-        twitter: dnbenso
-        gitter: dnbenso
-        bio:
     igormakunin:
         name: Igor Makunin
         title: PhD, eResearch Analyst - Bioinformatics, User Outreach, Galaxy Australia
