@@ -1,7 +1,12 @@
 ---
-- title: Temporary periods of unavailability
-  class: warning
+- title: Notice of outage for relocation of service to new backend hardware.
+  class: danger
   site: galaxy
   messages:
     - message: |
-        Galaxy Australia is currently experiencing some temporary periods of unavailability due to a redundant hardware failure. This is being corrected as a priority. The service is not down and jobs are being processed.
+        Galaxy Australia will be unavailable from 00:00 on August 7th, 2019 (AEST - UTC +10). This is due to requirements to move the service to new backend hardware. We envisage that the service will be unavailable for approximately 24 hours to allow for us to move, reconfigure and test it.
+
+        * All workers will be drained starting at midnight on the 6th August and any jobs still running at 08:00 hrs on the 7th will be stopped.
+        * If you have any concerns about your jobs on these dates, please contact [help@genome.edu.au](mailto:help@genome.edu.au)
+
+# class can be info (blue background), warning (orange background), danger (red background)
