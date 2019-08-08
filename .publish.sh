@@ -9,8 +9,8 @@ cp readme-deployed.md _site/README.md;
 rm -rf $TMPREPO
 cd _site
 git add --all *
-#git config --local user.name "UseGalaxy.EU Build Bot"
-#git config --local user.email "jenkins@usegalaxy.eu"
+git config --local user.name "UseGalaxy.AU Build Bot"
+git config --local user.email "help@genome.edu.au"
 
 git commit -m "Update site ($DATE)"
 
