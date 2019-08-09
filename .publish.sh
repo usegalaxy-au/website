@@ -11,7 +11,7 @@ cd _site
 git add --all *
 git config --local user.name "usegalaxy-au-bot"
 git config --local user.email "help@genome.edu.au"
-
+git config --local -l
 git commit -m "Update site ($DATE)"
 
 git push origin master
