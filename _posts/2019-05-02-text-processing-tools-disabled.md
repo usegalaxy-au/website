@@ -1,7 +1,7 @@
 ---
 site: freiburg
 title: Text processing tools disabled
-tags: [devops]
+tags: [tools]
 supporters:
     - galaxyaustralia
     - melbinfo

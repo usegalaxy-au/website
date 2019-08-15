@@ -1,7 +1,7 @@
 ---
 site: freiburg
 title: Galaxy Australia wins three Queensland iAwards
-tags: [info]
+tags: [paper,release]
 supporters:
     - galaxyaustralia
     - melbinfo
