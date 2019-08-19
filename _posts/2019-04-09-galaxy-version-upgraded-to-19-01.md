@@ -1,7 +1,7 @@
 ---
 site: freiburg
 title: 'Galaxy Australia upgraded to Galaxy version 19.01'
-tags: [devops]
+tags: [update,devops]
 supporters:
     - galaxyproject
     - galaxyaustralia

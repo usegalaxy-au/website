@@ -1,7 +1,7 @@
 ---
 title: New FTP upload URL
 site: freiburg
-tags: [devops]
+tags: [devops,release]
 supporters:
     - qcif
     - uqrcc
