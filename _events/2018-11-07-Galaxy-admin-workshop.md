@@ -1,6 +1,6 @@
 ---
 site: freiburg
-tags: [talk, training]
+tags: [training]
 title: "2019 Galaxy Admin Training"
 starts: 2019-01-28
 ends: 2019-02-01

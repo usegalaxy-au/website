@@ -1,6 +1,6 @@
 ---
 site: freiburg
-tags: [training]
+tags: [conference]
 title: GTN CoFest on Training Material
 starts: 2019-02-21
 ends: 2019-02-21

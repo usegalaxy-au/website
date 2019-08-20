@@ -1,6 +1,6 @@
 ---
 site: freiburg
-tags: [training]
+tags: [conference]
 title: GTN CoFest on Metagenomics Training Material
 starts: 2018-08-17
 ends: 2018-08-17
