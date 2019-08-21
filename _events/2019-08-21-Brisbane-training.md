@@ -1,7 +1,7 @@
 ---
 site: freiburg
 tags: [training]
-title: Galaxy training workshops Brisbane - July - August 2019
+title: Galaxy training workshops Brisbane - September 2019
 starts: 2019-09-23
 ends: 2018-09-27
 organiser:
