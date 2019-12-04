@@ -4,7 +4,7 @@
   site: galaxy
   messages:
     - message: |
-        Galaxy Australia will be unavailable from 00:00 untill 17:00 on December 11, 2019 (AEST - UTC +10). During this time we will be upgrading Galaxy to the latest release version (19.09) and implementing a couple of backend changes.
+        Galaxy Australia will be unavailable from 00:00 untill 17:00 on December 11, 2019 (AEST - UTC +10). During this time we will be upgrading Galaxy to the latest release version (19.09).
 
         * No new jobs will be accepted after midnight until Galaxy service is resumed.
         * If you have any concerns about your jobs on these dates, please contact [help@genome.edu.au](mailto:help@genome.edu.au)
