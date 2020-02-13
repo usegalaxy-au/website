@@ -23,6 +23,6 @@ CSIRO along with the Queensland Facility for Advanced Bioinformatics (QFAB) and 
 
 The C3DIS 2020 conference will be held at the Melbourne Convention and Exhibition Centre from March 16th to 20th 2020.
 
-Details of the workshop can be found at: [http://www.c3dis.com/4025](http://www.c3dis.com/4007). Registration for the workshop is via [http://www.c3dis.com/registration](http://www.c3dis.com/registration)
+Details of the workshop can be found at: [http://www.c3dis.com/4007](http://www.c3dis.com/4007). Registration for the workshop is via [http://www.c3dis.com/registration](http://www.c3dis.com/registration)
 
 ---
