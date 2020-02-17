@@ -54,3 +54,14 @@ GalaxyAustralia:
         email: n.rhodes@qfab.org
         location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
         bio:
+    cat-bro:
+        name: Catherine Bromhead
+        title: Software Developer, Galaxy Australia
+        email: catherine.bromhead@unimelb.edu.au
+        location: "Melbourne Bioinformatics, 187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
+        gitter: cat-bro
+    mthang:
+        name: Michael Thang
+        title: Bioinformatician, Galaxy Australia
+        email: m.thang@qfab.org
+        location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
