@@ -1,9 +1,16 @@
- ---
- - title: Scheduled Outage
-   class: warning
-   site: galaxy
-   messages:
-       - message: |
-            Galaxy Australia is currently running. However, we are also restoring some user data from backup. If you experience difficulties with some of your files, please be patient - they should reappear over the next few hours.
+# - title: Data restoration
+#   class: warn
+#   site: galaxy
+#   messages:
+#       - message: |
+#            Galaxy Australia is currently running. However, we are also restoring some user data from backup. If you experience difficulties with some of your files, please be patient - they should reappear over the next few hours.
+#
+#            [help@genome.edu.au](mailto:help@genome.edu.au)
 
-            [help@genome.edu.au](mailto:help@genome.edu.au)
+- title: Data restoration
+  class: info
+  site: galaxy
+  messages:
+    - message: |
+        Galaxy Australia is currently running. However, we are also restoring some user data from backup. If you experience difficulties with some of your files, please be patient - they should reappear over the next few hours.
+        [help@genome.edu.au](mailto:help@genome.edu.au)
