@@ -3,8 +3,6 @@ site: freiburg
 title: 'Galaxy Australia tool updates 2020-02-19'
 tags: [tools]
 supporters:
-    - galaxytrainingnetwork
-    - galaxyproject
     - galaxyaustralia
     - melbinfo
     - qcif
@@ -109,4 +107,3 @@ The following tools have been updated on Galaxy Australia
  - bcftools_reheader was updated to [982bc0e518c8](https://toolshed.g2.bx.psu.edu/view/iuc/bcftools_reheader/982bc0e518c8)
  - bcftools_roh was updated to [cb681f21e670](https://toolshed.g2.bx.psu.edu/view/iuc/bcftools_roh/cb681f21e670)
  - bcftools_view was updated to [c4a9b38b435d](https://toolshed.g2.bx.psu.edu/view/iuc/bcftools_view/c4a9b38b435d)
-
