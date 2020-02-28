@@ -9,6 +9,6 @@ supporters:
     - qcif
     - ausbiocommons
 ---
-A joint paper by Galaxy teams from Australia, Europe and the United States demonstrated how the COVID-19 genome data can be shared, analysed and reproduced in an efficient and transparent way. Find the paper at [https://www.biocommons.org.au/galaxy-covid-19](https://www.biocommons.org.au/galaxy-covid-19) and the workflows ready for use here in Galaxy Australia under Shared Data / Workflows.
+A joint paper by Galaxy teams from Australia, Europe and the United States demonstrated how the COVID-19 genome data can be shared, analysed and reproduced in an efficient and transparent way. Find the paper at <a href="https://www.biocommons.org.au/galaxy-covid-19" target="_blank">https://www.biocommons.org.au/galaxy-covid-19</a> and the workflows ready for use here in Galaxy Australia under Shared Data / Workflows.
 
 Galaxy Australia Team
