@@ -19,7 +19,7 @@ supporters:
  - emblabr
 ---
 
-Melbourne Bioinformatics, in association with Galaxy Australia will be running a series of half day Galaxy Training Workshops in March 2019. The workshops will be run at Melbourne Bioinformatics, 187 Grattan St, Carlton.
+Melbourne Bioinformatics, in association with Galaxy Australia will be running a series of half day Galaxy Training Workshops in March 2020. The workshops will be run at Melbourne Bioinformatics, 187 Grattan St, Carlton.
 
 <br/>
 <style>
