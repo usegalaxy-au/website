@@ -28,7 +28,7 @@ If you don't already have conda installed, install it.
 
 ```bash
 cd website
-make conda-install
+make install-conda
 ```
 
 Create a new conda environment for Jekyll to live in (this will stop it interfering with anything else on your computer.)
