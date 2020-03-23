@@ -123,6 +123,8 @@ header_links:
           url: /people
         - name: About
           url: /about
+        - name: Support
+          url: /help
     # freiburg:
     #     - name: News
     #       url: /freiburg/news
