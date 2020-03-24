@@ -8,11 +8,11 @@ For general questions and support using Galaxy Australia, email [help@genome.edu
 
 ### Galaxy Help Forum
 
-Visit the [Galaxy Community Help](help.galaxyproject.org) forum
+Visit the [Galaxy Community Help](https://help.galaxyproject.org) forum
 
 ### Training Material
 
-Galaxy training material can be found [here](training.galaxyproject.org).
+Galaxy training material can be found [here](https://training.galaxyproject.org).
 
 <!-- ## FAQ
 
