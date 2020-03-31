@@ -7,5 +7,6 @@ layout: home
   {% include notices.html %}
   {% include home_carousel.html %}
   {% include home_news_events.html %}
+  {% include data-policy-summary.html %}
   {% include home_done.html %}
 </div>
