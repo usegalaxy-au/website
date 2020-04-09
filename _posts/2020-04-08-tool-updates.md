@@ -18,7 +18,7 @@ The following tools have been installed/updated on Galaxy Australia
 ### ChemicalToolBox
 
  - get_pdb revision [538790c6c21b](https://toolshed.g2.bx.psu.edu/view/bgruening/get_pdb/538790c6c21b) was installed
- - sucos_max_score revision [bf99565cec1f](https://toolshed.g2.bx.psu.edu/view/bgruening/sucos_max_score/bf99565cec1f) was installed
+ - sucos_max_score revision [bf99565cec1f](https://toolshed.g2.bx.psu.edu/view/bgruening/sucos_max_score/bf99565cec1f), [85fad59f8168](https://toolshed.g2.bx.psu.edu/view/bgruening/sucos_max_score/85fad59f8168) was installed
  - bio3d_pca revision [24867ab16f36](https://toolshed.g2.bx.psu.edu/view/chemteam/bio3d_pca/24867ab16f36) was installed
  - bio3d_rmsd revision [77e28e1da9f4](https://toolshed.g2.bx.psu.edu/view/chemteam/bio3d_rmsd/77e28e1da9f4) was installed
  - enumerate_charges revision [2a868592ebcb](https://toolshed.g2.bx.psu.edu/view/bgruening/enumerate_charges/2a868592ebcb) was installed
@@ -30,7 +30,6 @@ The following tools have been installed/updated on Galaxy Australia
  - gmx_em was updated to [476cdf677b03](https://toolshed.g2.bx.psu.edu/view/chemteam/gmx_em/476cdf677b03)
  - gmx_sim was updated to [b1061cc2653a](https://toolshed.g2.bx.psu.edu/view/chemteam/gmx_sim/b1061cc2653a)
  - rdock_rbcavity was updated to [d52d6ee95cf2](https://toolshed.g2.bx.psu.edu/view/bgruening/rdock_rbcavity/d52d6ee95cf2)
- - sucos_max_score was updated to [85fad59f8168](https://toolshed.g2.bx.psu.edu/view/bgruening/sucos_max_score/85fad59f8168)
 
 ### Collection Operations
 
@@ -64,6 +63,7 @@ The following tools have been installed/updated on Galaxy Australia
 
 ### Gemini Tools
 
+ - gemini_inheritance revision [18d13111692b](https://toolshed.g2.bx.psu.edu/view/iuc/gemini_inheritance/18d13111692b) was installed
  - gemini_load was updated to [45296e47d565](https://toolshed.g2.bx.psu.edu/view/iuc/gemini_load/45296e47d565)
  - gemini_actionable_mutations was updated to [142d95ab942e](https://toolshed.g2.bx.psu.edu/view/iuc/gemini_actionable_mutations/142d95ab942e)
  - gemini_amend was updated to [be828b79bd4d](https://toolshed.g2.bx.psu.edu/view/iuc/gemini_amend/be828b79bd4d)
@@ -115,6 +115,7 @@ The following tools have been installed/updated on Galaxy Australia
 
  - qualimap_bamqc revision [e7fd6754d093](https://toolshed.g2.bx.psu.edu/view/iuc/qualimap_bamqc/e7fd6754d093) was installed
  - qualimap_multi_bamqc revision [e38af83df163](https://toolshed.g2.bx.psu.edu/view/iuc/qualimap_multi_bamqc/e38af83df163) was installed
+ - bamtools_filter revision [cb20f99fd45b](https://toolshed.g2.bx.psu.edu/view/devteam/bamtools_filter/cb20f99fd45b) was installed
  - bam_to_sam was updated to [88eedb4abea0](https://toolshed.g2.bx.psu.edu/view/devteam/bam_to_sam/88eedb4abea0)
  - sam_to_bam was updated to [cf1ffd88f895](https://toolshed.g2.bx.psu.edu/view/devteam/sam_to_bam/cf1ffd88f895)
  - samtools_flagstat was updated to [22970df7a40e](https://toolshed.g2.bx.psu.edu/view/devteam/samtools_flagstat/22970df7a40e)
@@ -137,15 +138,9 @@ The following tools have been installed/updated on Galaxy Australia
 
 ### iVar
 
- - ivar_consensus revision [f362150bef41](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_consensus/f362150bef41) was installed
- - ivar_filtervariants revision [c88553ec696e](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_filtervariants/c88553ec696e) was installed
- - ivar_removereads revision [bd2a7d1316b9](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_removereads/bd2a7d1316b9) was installed
- - ivar_trim revision [8858fa037a15](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_trim/8858fa037a15) was installed
- - ivar_variants revision [12d66d0d05ac](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/12d66d0d05ac) was installed
- - ivar_getmasked was updated to [fafb3d685fa9](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_getmasked/fafb3d685fa9)
- - ivar_consensus was updated to [a38934e303b9](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_consensus/a38934e303b9)
- - ivar_filtervariants was updated to [2b95d5c04908](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_filtervariants/2b95d5c04908)
- - ivar_getmasked was updated to [ad0dc9f4c9e2](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_getmasked/ad0dc9f4c9e2)
- - ivar_removereads was updated to [9eaadf03e0df](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_removereads/9eaadf03e0df)
- - ivar_trim was updated to [d37ede8589b2](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_trim/d37ede8589b2)
- - ivar_variants was updated to [c5c9f02b6167](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/c5c9f02b6167)
+ - ivar_consensus revision [f362150bef41](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_consensus/f362150bef41), [a38934e303b9](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_consensus/a38934e303b9) was installed
+ - ivar_filtervariants revision [c88553ec696e](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_filtervariants/c88553ec696e), [2b95d5c04908](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_filtervariants/2b95d5c04908) was installed
+ - ivar_removereads revision [bd2a7d1316b9](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_removereads/bd2a7d1316b9), [9eaadf03e0df](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_removereads/9eaadf03e0df) was installed
+ - ivar_trim revision [8858fa037a15](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_trim/8858fa037a15), [d37ede8589b2](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_trim/d37ede8589b2) was installed
+ - ivar_variants revision [12d66d0d05ac](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/12d66d0d05ac), [c5c9f02b6167](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/c5c9f02b6167) was installed
+ - ivar_getmasked was updated to [fafb3d685fa9](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_getmasked/fafb3d685fa9), [ad0dc9f4c9e2](https://toolshed.g2.bx.psu.edu/view/iuc/ivar_getmasked/ad0dc9f4c9e2)
