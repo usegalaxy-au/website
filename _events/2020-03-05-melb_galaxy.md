@@ -1,7 +1,7 @@
 ---
 site: freiburg
 tags: [training]
-title: Galaxy training workshops Melbourne - March 2020
+title: CANCELLED - Galaxy training workshops Melbourne - March 2020
 starts: 2020-03-23
 ends: 2020-03-24
 organiser:

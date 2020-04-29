@@ -1,7 +1,7 @@
 ---
 site: freiburg
 tags: [training]
-title: "Galaxy for Scientists – Advanced Hands-on Tutorials @ C3DIS 2020 Melbourne"
+title: "CANCELLED - Galaxy for Scientists – Advanced Hands-on Tutorials @ C3DIS 2020 Melbourne"
 starts: 2020-03-19
 ends: 2020-03-19
 location:
