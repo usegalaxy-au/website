@@ -70,16 +70,21 @@
                         <img alt="gtn_logo" src="/assets/media/gtn_logo.png" class="img-responsive eu-image" />
                     </a>
                 {% elsif supporter_lower == "bioplatforms_australia" %}
-                    <a href="/https://www.bioplatforms.com/" target="_blank">
+                    <a href="https://www.bioplatforms.com/" target="_blank">
                         <img alt="bioplatforms_logo" src="/assets/media/BioplatformsAustralia.png" class="img-responsive eu-image" />
                     </a>
                 {% elsif supporter_lower == "ausbiocommons" %}
-                    <a href="/https://biocommons.org.au/" target="_blank">
+                    <a href="https://biocommons.org.au/" target="_blank">
                         <img alt="aus_biocommons_logo" src="/assets/media/AustralianBiocommons.png" class="img-responsive eu-image" />
                     </a>
                 {% elsif supporter_lower == "csiro" %}
-                    <a href="/https://csiro.au/" target="_blank">
+                    <a href="https://csiro.au/" target="_blank">
                         <img alt="csiro_logo" src="/assets/media/csiro_logo.jpg" class="img-responsive eu-image" />
+                    </a>
+                {% else %}
+                {% elsif supporter_lower == "obf" %}
+                    <a href="https://www.open-bio.org/" target="_blank">
+                        <img alt="csiro_logo" src="/assets/media/obf.svg" class="img-responsive eu-image" />
                     </a>
                 {% else %}
                     {{ supporter }}
