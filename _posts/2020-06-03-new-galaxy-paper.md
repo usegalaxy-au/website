@@ -9,6 +9,8 @@ supporters:
     - qcif
 ---
 
+If your use of Galaxy Australia leads to publication, please cite this paper to help promote the value of the Galaxy Australia platform to reproducible science.
+
 The Galaxy Project has a new paper in Nucleic Acids Research.
 
 **The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2020 update**
