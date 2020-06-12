@@ -4,9 +4,9 @@
   site: galaxy
   messages:
       - message: |
-            Want to learn the best practices for the analysis of SARS-CoV-2 data using Galaxy? Visit the Galaxy SARS-CoV-2 portal at **<a href="covid19.galaxyproject.org" taget="_blank">covid19.galaxyproject.org</a>**
+            Want to learn the best practices for the analysis of SARS-CoV-2 data using Galaxy? Visit the Galaxy SARS-CoV-2 portal at **<a href="https://covid19.galaxyproject.org" target="_blank">covid19.galaxyproject.org</a>**
             * We have published workflows under **Shared Data -> Workflows** - search "covid"
             * We have input test data under **Shared Data -> Data Libraries -> COVID-19 Data**
-            * We have training material to teach best practice analysis at **[https://training.galaxyproject.org](https://training.galaxyproject.org)**
+            * We have training material to teach best practice analysis at **<a href="https://training.galaxyproject.org" target="_blank">https://training.galaxyproject.org</a>**
 
             **02/06/2020 @ 4pm:** [Webinar + Q&A: Introduction to Galaxy and the Galaxy workflows for SARS-CoV-2 data analysis](https://www.biocommons.org.au/events/galaxy-elixir-covid-webinar-intro)
