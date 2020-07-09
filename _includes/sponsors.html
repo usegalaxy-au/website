@@ -60,7 +60,6 @@
                     <a href="https://www.embl-abr.org.au" target="_blank">
                         <img alt="embl-abr_logo" src="/assets/media/embl-australia-resource-logo.jpg" class="img-responsive eu-image" />
                     </a>
-
                 {% elsif supporter_lower == "galaxyproject" %}
                     <a href="https://galaxyproject.org" target="_blank">
                         <img alt="galaxy-project_logo" src="/assets/media/galaxy_project_logo.jpg" class="img-responsive eu-image" />
@@ -81,10 +80,13 @@
                     <a href="https://csiro.au/" target="_blank">
                         <img alt="csiro_logo" src="/assets/media/csiro_logo.jpg" class="img-responsive eu-image" />
                     </a>
-                {% else %}
                 {% elsif supporter_lower == "obf" %}
                     <a href="https://www.open-bio.org/" target="_blank">
-                        <img alt="csiro_logo" src="/assets/media/obf.svg" class="img-responsive eu-image" />
+                        <img alt="obf_logo" src="/assets/media/obf.svg" class="img-responsive eu-image" />
+                    </a>
+                {% elsif supporter_lower == "pawsey" %}
+                    <a href="https://pawsey.org.au/" target="_blank">
+                        <img alt="pawsey_logo" src="/assets/media/pawsey-logo-blue.png" class="img-responsive eu-image" />
                     </a>
                 {% else %}
                     {{ supporter }}
