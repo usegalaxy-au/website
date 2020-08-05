@@ -1,4 +1,11 @@
 ---
+- title: Galaxy Australia Outage Notification - 12/08/2020
+  class: danger
+  site: galaxy
+  messages:
+      - message: |
+            Galaxy Australia will be unavailable on the 12/08/2020 from 07:00 until 17:00 (AEST). During this time we will be upgrading Galaxy to the latest release (20.05) and other minor maintenance. No new jobs will be accepted from Midnight on the 11/08/2020. If you have any concerns or questions, please contact <a href="mailto://help@genome.edu.au">help@genome.edu.au</a>.
+
 - title: Galaxy and SARS-CoV-2 Analysis
   class: info
   site: galaxy
