@@ -1,17 +1,17 @@
 ---
-#- title: Galaxy Australia Outage Notification - 12/08/2020
-#  class: danger
-  # site: galaxy
-  # messages:
-  #     - message: |
-  #           Galaxy Australia will be unavailable on the 12/08/2020 from 07:00 until 17:00 (AEST). During this time we will be upgrading Galaxy to the latest release (20.05) and other minor platform optimisations. No new jobs will be accepted from Midnight on the 11/08/2020. If you have any concerns or questions, please contact <a href="mailto:help@genome.edu.au">help@genome.edu.au</a>.
-
-- title: Galaxy and SARS-CoV-2 Analysis
-  class: info
+- title: Galaxy Australia Outage Notification - 01/10/2020 - 06/10/2020
+  class: danger
   site: galaxy
   messages:
-      - message: |
-            Want to learn the best practices for the analysis of SARS-CoV-2 data using Galaxy? Visit the Galaxy SARS-CoV-2 portal at **<a href="https://covid19.galaxyproject.org" target="_blank">covid19.galaxyproject.org</a>**
-            * We have published workflows under **Shared Data -> Workflows** - search "covid"
-            * We have input test data under **Shared Data -> Data Libraries -> COVID-19 Data**
-            * We have training material to teach best practice analysis at **<a href="https://training.galaxyproject.org" target="_blank">https://training.galaxyproject.org</a>**
+    - message: |
+             Galaxy Australia will be unavailable from 5pm on the 01/10/2020 until 9am on 06/10/2020 (AEST). One of our backend providers will be offline for a major upgrade during this time. No new jobs will be accepted from 12:00 on the 01/10/2020. If you have any concerns or questions, please contact <a href="mailto:help@genome.edu.au">help@genome.edu.au</a>.
+
+#- title: Galaxy and SARS-CoV-2 Analysis
+#  class: info
+#  site: galaxy
+#  messages:
+#    - message: |
+#            Want to learn the best practices for the analysis of SARS-CoV-2 data using Galaxy? Visit the Galaxy SARS-CoV-2 portal at **<a href="https://covid19.galaxyproject.org" target="_blank">covid19.galaxyproject.org</a>**
+#            * We have published workflows under **Shared Data -> Workflows** - search "covid"
+#            * We have input test data under **Shared Data -> Data Libraries -> COVID-19 Data**
+#            * We have training material to teach best practice analysis at **<a href="https://training.galaxyproject.org" target="_blank">https://training.galaxyproject.org</a>**
