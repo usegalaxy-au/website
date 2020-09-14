@@ -4,7 +4,7 @@
   site: galaxy
   messages:
     - message: |
-             Galaxy Australia will be unavailable from 5pm on the 01/10/2020 until 9am on 06/10/2020 (AEST). One of our backend providers will be offline for a major upgrade during this time. No new jobs will be accepted from 12:00 on the 01/10/2020. If you have any concerns or questions, please contact <a href="mailto:help@genome.edu.au">help@genome.edu.au</a>.
+             Galaxy Australia will be unavailable from 5pm on the 01/10/2020 until 9am on 06/10/2020 (AEST). One of our infrastructure providers will be offline for a major upgrade during this time. No new jobs will be accepted from 12pm (midday) on the 01/10/2020. If you have any concerns or questions, please contact <a href="mailto:help@genome.edu.au">help@genome.edu.au</a>.
 
 #- title: Galaxy and SARS-CoV-2 Analysis
 #  class: info
