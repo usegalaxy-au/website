@@ -1,4 +1,11 @@
 ---
+- title: Current issues with job submission and long queue times
+  class: warning
+  site: galaxy
+  messages:
+    - message: |
+            Galaxy Australia is currently experiencing some issues with its backend infrastructure. This has resulted in a slowdown with job submission. Our infrastructure provider has been notified and we expect this to be resolved soon. If you have any questions or concerns, please contact <a href="mailto:help@genome.edu.au">help@genome.edu.au</a>.
+
 - title: Galaxy Australia Outage Notification - 01/10/2020 - 06/10/2020
   class: danger
   site: galaxy
