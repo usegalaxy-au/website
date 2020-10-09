@@ -1,10 +1,18 @@
 ---
-- title: The scheduled outage has been postponed by our infrastructure partners.
-  class: warning
+
+- title: Job processing temporarily suspended.
+  class: danger
   site: galaxy
   messages:
     - message: |
-            Due to circumstances beyond our control the scheduled outage **will not occur at 17:00 on 30 September 2020 AEST** and job submission will continue as normal beyond 9:00am on the 30 September. While the service is available, we are experiencing longer than normal job queueing times as a consequence of the previously advertised outage. We expected these to resolve in the coming weeks. If you experience any ongoing  issues using the service please contact support for assistance: <a href="mailto:help@genome.edu.au">help@genome.edu.au</a>.
+              Job processing has been temporary suspended, to allow for changes to increase overall Galaxy performance. We expect that jobs will be processing again by 2pm AEST October 9th. Galaxy Histories are fully accessible and all new jobs submitted will be queued until backend changes have been made.
+
+# - title: The scheduled outage has been postponed by our infrastructure partners.
+#   class: warning
+#   site: galaxy
+#   messages:
+#     - message: |
+#             Due to circumstances beyond our control the scheduled outage **will not occur at 17:00 on 30 September 2020 AEST** and job submission will continue as normal beyond 9:00am on the 30 September. While the service is available, we are experiencing longer than normal job queueing times as a consequence of the previously advertised outage. We expected these to resolve in the coming weeks. If you experience any ongoing  issues using the service please contact support for assistance: <a href="mailto:help@genome.edu.au">help@genome.edu.au</a>.
 
 #- title: Galaxy Australia Outage Notification - 30/09/2020 - 06/10/2020
 #  class: danger
