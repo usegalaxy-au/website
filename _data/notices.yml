@@ -1,11 +1,11 @@
 ---
 
-- title: Job processing temporarily suspended.
-  class: danger
+- title: Galaxy Australia Job Queues
+  class: warning
   site: galaxy
   messages:
     - message: |
-              Job processing has been temporary suspended, to allow for changes to increase overall Galaxy performance. We expect that jobs will be processing again by 2pm AEST October 9th. Galaxy Histories are fully accessible and all new jobs submitted will be queued until backend changes have been made.
+              Galaxy Australia is migrating elements of its supporting hardware to provide greater access to the service and to your data. Already achieved is the migration of read data, meaning you can access tools, histories and workflows. Newly submitted jobs will be processed but the queue time is still slow. We are continuing to provide performance gains to the job queue. If you experience any ongoing issues using the service please contact support for assistance: [help@genome.edu.au](mailto:help@genome.edu.au).
 
 # - title: The scheduled outage has been postponed by our infrastructure partners.
 #   class: warning
