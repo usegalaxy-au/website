@@ -1,11 +1,11 @@
 ---
 
-- title: Galaxy Australia Job Queues
+- title: Job Processing Times
   class: warning
   site: galaxy
   messages:
     - message: |
-              Galaxy Australia is migrating elements of its supporting hardware to provide greater access to the service and to your data. Already achieved is the migration of read data, meaning you can access tools, histories and workflows. Newly submitted jobs will be processed but the queue time is still slow. We are continuing to provide performance gains to the job queue. If you experience any ongoing issues using the service please contact support for assistance: [help@genome.edu.au](mailto:help@genome.edu.au).
+              Galaxy Australia is currently experiencing performance issues with internal data transfer speeds. Please be aware that while jobs are still currently running that the time it is taking for these jobs to complete is much longer than normal. While we are working behind the scenes to rectify this as soon as possible, we currently do not expect this issue to be resolved before the 30th October. There are other options for you if your job is urgent, please reach out to our support service (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>) so we can discuss these with you.
 
 # - title: The scheduled outage has been postponed by our infrastructure partners.
 #   class: warning
