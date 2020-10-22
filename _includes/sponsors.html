@@ -1,97 +1,93 @@
 {% if include.supporters.size > 0 %}
 <div id="supported">
-    {% if include.hidetitle %}
-    {% else %}
-        <h3>Supported by</h3>
+    {% if include.hidetitle %} {% else %}
+    <h3>Supported by</h3>
     {% endif %}
     <div class="row eu-image-box">
         {% for supporter in include.supporters %}
-            <div>
-                {% assign supporter_lower = supporter | downcase %}
-                {% if supporter_lower == "elixir" %}
-                    <a href="https://www.elixir-europe.org" target="_blank">
-                        <img alt="ELIXIR logo" src="/assets/media/elixir_logo_white_background.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "unifreiburg" %}
-                    <a href="http://uni-freiburg.de/" target="_blank">
-                        <img alt="University of Freiburg Logo" src="/assets/media/Logo_Uni_Freiburg.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "galaxy-freiburg" %}
-                    <a href="https://usegalaxy.eu/freiburg" target="_blank">
-                        <img alt="Freiburg Galaxy Team Logo" src="/assets/media/freiburg-galaxy.svg" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "galaxy-europe" %}
-                    <a href="https://usegalaxy-eu.github.io" target="_blank">
-                        <img alt="European Galaxy Team Logo" src="/assets/media/galaxy-eu.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "bpa" %}
-                    <a href="https://www.qcif.edu.au/" target="_blank">
-                        <img alt="BPA Logo" src="/assets/media/BioplatformsAustralia.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "qcif" %}
-                    <a href="https://www.qcif.edu.au/" target="_blank">
-                        <img alt="QCIF Logo" src="/assets/media/qcif.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "ncris" %}
-                    <a href="https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris" target="_blank">
-                        <img alt="NCRIS Logo" src="/assets/media/ncris.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "melbinfo" %}
-                    <a href="https://www.melbournebioinformatics.org.au/" target="_blank">
-                        <img alt="NCRIS Logo" src="/assets/media/melbourne_bio.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "uqrcc" %}
-                    <a href="https://rcc.uq.edu.au/" target="_blank">
-                        <img alt="RCC Logo" src="/assets/media/uq_rcc_logo.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "ardc" %}
-                    <a href="https://ardc.edu.au/" target="_blank">
-                        <img alt="ardc Logo" src="/assets/media/ardc_built-1.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "galaxyaustralia" %}
-                    <a href="https://usegalaxy-au.github.io/" target="_blank">
-                        <img alt="galaxy australia logo" src="/assets/media/Galaxy_australia_white.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "qfab" %}
-                    <a href="https://www.qfab.org" target="_blank">
-                        <img alt="qfab_logo" src="/assets/media/qfab.jpeg" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "emblabr" %}
-                    <a href="https://www.embl-abr.org.au" target="_blank">
-                        <img alt="embl-abr_logo" src="/assets/media/embl-australia-resource-logo.jpg" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "galaxyproject" %}
-                    <a href="https://galaxyproject.org" target="_blank">
-                        <img alt="galaxy-project_logo" src="/assets/media/galaxy_project_logo.jpg" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "galaxytrainingnetwork" %}
-                    <a href="https://training.galaxyproject.org" target="_blank">
-                        <img alt="gtn_logo" src="/assets/media/gtn_logo.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "bioplatforms_australia" %}
-                    <a href="https://www.bioplatforms.com/" target="_blank">
-                        <img alt="bioplatforms_logo" src="/assets/media/BioplatformsAustralia.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "ausbiocommons" %}
-                    <a href="https://biocommons.org.au/" target="_blank">
-                        <img alt="aus_biocommons_logo" src="/assets/media/AustralianBiocommons.png" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "csiro" %}
-                    <a href="https://csiro.au/" target="_blank">
-                        <img alt="csiro_logo" src="/assets/media/csiro_logo.jpg" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "obf" %}
-                    <a href="https://www.open-bio.org/" target="_blank">
-                        <img alt="obf_logo" src="/assets/media/obf.svg" class="img-responsive eu-image" />
-                    </a>
-                {% elsif supporter_lower == "pawsey" %}
-                    <a href="https://pawsey.org.au/" target="_blank">
-                        <img alt="pawsey_logo" src="/assets/media/pawsey-logo-blue.png" class="img-responsive eu-image" />
-                    </a>
-                {% else %}
-                    {{ supporter }}
-                {% endif %}
-            </div>
+        <div>
+            {% assign supporter_lower = supporter | downcase %} {% if supporter_lower == "elixir" %}
+            <a href="https://www.elixir-europe.org" target="_blank">
+                <img alt="ELIXIR logo" src="/assets/media/elixir_logo_white_background.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "unifreiburg" %}
+            <a href="http://uni-freiburg.de/" target="_blank">
+                <img alt="University of Freiburg Logo" src="/assets/media/Logo_Uni_Freiburg.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "galaxy-freiburg" %}
+            <a href="https://usegalaxy.eu/freiburg" target="_blank">
+                <img alt="Freiburg Galaxy Team Logo" src="/assets/media/freiburg-galaxy.svg" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "galaxy-europe" %}
+            <a href="https://usegalaxy-eu.github.io" target="_blank">
+                <img alt="European Galaxy Team Logo" src="/assets/media/galaxy-eu.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "bpa" %}
+            <a href="https://www.qcif.edu.au/" target="_blank">
+                <img alt="BPA Logo" src="/assets/media/BioplatformsAustralia.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "qcif" %}
+            <a href="https://www.qcif.edu.au/" target="_blank">
+                <img alt="QCIF Logo" src="/assets/media/QFAB_logo_2020.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "ncris" %}
+            <a href="https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris" target="_blank">
+                <img alt="NCRIS Logo" src="/assets/media/ncris.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "melbinfo" %}
+            <a href="https://www.melbournebioinformatics.org.au/" target="_blank">
+                <img alt="NCRIS Logo" src="/assets/media/melbourne_bio.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "uqrcc" %}
+            <a href="https://rcc.uq.edu.au/" target="_blank">
+                <img alt="RCC Logo" src="/assets/media/uq_rcc_logo.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "ardc" %}
+            <a href="https://ardc.edu.au/" target="_blank">
+                <img alt="ardc Logo" src="/assets/media/ardc_built-1.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "galaxyaustralia" %}
+            <a href="https://usegalaxy-au.github.io/" target="_blank">
+                <img alt="galaxy australia logo" src="/assets/media/Galaxy_australia_white.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "qfab" %}
+            <a href="https://www.qfab.org" target="_blank">
+                <img alt="qfab_logo" src="/assets/media/QFAB_logo_2020.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "emblabr" %}
+            <a href="https://www.embl-abr.org.au" target="_blank">
+                <img alt="embl-abr_logo" src="/assets/media/embl-australia-resource-logo.jpg" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "galaxyproject" %}
+            <a href="https://galaxyproject.org" target="_blank">
+                <img alt="galaxy-project_logo" src="/assets/media/galaxy_project_logo.jpg" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "galaxytrainingnetwork" %}
+            <a href="https://training.galaxyproject.org" target="_blank">
+                <img alt="gtn_logo" src="/assets/media/gtn_logo.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "bioplatforms_australia" %}
+            <a href="https://www.bioplatforms.com/" target="_blank">
+                <img alt="bioplatforms_logo" src="/assets/media/BioplatformsAustralia.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "ausbiocommons" %}
+            <a href="https://biocommons.org.au/" target="_blank">
+                <img alt="aus_biocommons_logo" src="/assets/media/AustralianBiocommons.png" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "csiro" %}
+            <a href="https://csiro.au/" target="_blank">
+                <img alt="csiro_logo" src="/assets/media/csiro_logo.jpg" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "obf" %}
+            <a href="https://www.open-bio.org/" target="_blank">
+                <img alt="obf_logo" src="/assets/media/obf.svg" class="img-responsive eu-image" />
+            </a>
+            {% elsif supporter_lower == "pawsey" %}
+            <a href="https://pawsey.org.au/" target="_blank">
+                <img alt="pawsey_logo" src="/assets/media/pawsey-logo-blue.png" class="img-responsive eu-image" />
+            </a>
+            {% else %} {{ supporter }} {% endif %}
+        </div>
         {% endfor %}
     </div>
 </div>
