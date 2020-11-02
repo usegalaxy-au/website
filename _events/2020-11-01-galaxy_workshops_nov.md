@@ -6,7 +6,7 @@ starts: 2020-11-12
 ends: 2020-11-12
 organiser:
   name: Australian BioCommons
-  email: 
+  email: christina@biocommons.org.au
 supporters:
  - ausbiocommons
  - galaxyaustralia
