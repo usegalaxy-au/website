@@ -86,6 +86,10 @@
             <a href="https://pawsey.org.au/" target="_blank">
                 <img alt="pawsey_logo" src="/assets/media/pawsey-logo-blue.png" class="img-responsive eu-image" />
             </a>
+            {% elsif supporter_lower == "peter_mac" %}
+            <a href="https://foundation.petermac.org/" target="_blank">
+                <img alt="pawsey_logo" src="/assets/media/peter_mac.png" class="img-responsive eu-image" />
+            </a>
             {% else %} {{ supporter }} {% endif %}
         </div>
         {% endfor %}
