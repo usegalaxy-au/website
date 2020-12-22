@@ -1,5 +1,5 @@
 ---
-title: 'Galaxy Australia Christmas shutdown period'
+title: 'Summer Holiday Support'
 site: freiburg
 tags: [news]
 ---
