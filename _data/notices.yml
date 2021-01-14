@@ -1,10 +1,10 @@
 ---
 
-- class: warning
-  site: galaxy
-  messages:
-    - message: |
-          The infrastructure provider holding Galaxy Histories with create dates older than December 2nd 2020 will be offline for a significant upgrade. Your histories from this date and earlier will be unavailable  from 5pm, Thursday, 24 December 2020 until 9am, 4 January 2021. If you have any concerns please contact (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>) *before* the 24th of December.
+#- class: warning
+#  site: galaxy
+#  messages:
+#    - message: |
+#          The infrastructure provider holding Galaxy Histories with create dates older than December 2nd 2020 will be offline for a significant upgrade. Your histories from this date and earlier will be unavailable  from 5pm, Thursday, 24 December 2020 until 9am, 4 January 2021. If you have any concerns please contact (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>) *before* the 24th of December.
 
 # - title: Job Processing Times
 #   class: warning
