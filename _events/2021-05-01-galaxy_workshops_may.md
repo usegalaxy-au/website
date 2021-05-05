@@ -35,7 +35,7 @@ The Australian BioCommons and Queensland Cyber Infrastructure Foundation (QCIF),
 |----------------|------|------|---------|
 | Variant calling in humans, animals and plants with Galaxy | 25 May 2021 | 1:00pm - 5:00pm AEST| [Details and Sign Up](https://www.biocommons.org.au/events/variants-polyploid) |
 | Viral variant calling with Galaxy | 26 May 2021 | 1:00pm - 5:00pm AEDT| [Details and Sign Up](https://www.biocommons.org.au/events/variants-viruses) |
-| Hybrid de novo genome assembly – Nanopore & Illumina – online | 1 December 2020 | 10:00am - 1:00pm AEDT | [Details and Sign Up](https://www.biocommons.org.au/events/variants-bacteria) |
+| Bacterial varaint calling with Galaxy | 1 December 2020 | 10:00am - 1:00pm AEDT | [Details and Sign Up](https://www.biocommons.org.au/events/variants-bacteria) |
 
 
 <br/>
