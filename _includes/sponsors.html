@@ -90,6 +90,10 @@
             <a href="https://foundation.petermac.org/" target="_blank">
                 <img alt="pawsey_logo" src="/assets/media/peter_mac.png" class="img-responsive eu-image" />
             </a>
+            {% elsif supporter_lower == "vib" %}
+            <a href="https://vib.be/" target="_blank">
+                <img alt="vib_logo" src="/assets/media/vib_logo.jpg" class="img-responsive eu-image" />
+            </a>
             {% else %} {{ supporter }} {% endif %}
         </div>
         {% endfor %}
