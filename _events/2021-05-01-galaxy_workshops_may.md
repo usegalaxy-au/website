@@ -34,8 +34,8 @@ The Australian BioCommons and Queensland Cyber Infrastructure Foundation (QCIF),
 | Workshop Title | Date | Time | Details |
 |----------------|------|------|---------|
 | Variant calling in humans, animals and plants with Galaxy | 25 May 2021 | 1:00pm - 5:00pm AEST| [Details and Sign Up](https://www.biocommons.org.au/events/variants-polyploid) |
-| Viral variant calling with Galaxy | 26 May 2021 | 1:00pm - 5:00pm AEDT| [Details and Sign Up](https://www.biocommons.org.au/events/variants-viruses) |
-| Bacterial varaint calling with Galaxy | 1 December 2020 | 10:00am - 1:00pm AEDT | [Details and Sign Up](https://www.biocommons.org.au/events/variants-bacteria) |
+| Viral variant calling with Galaxy | 26 May 2021 | 1:00pm - 5:00pm AEST| [Details and Sign Up](https://www.biocommons.org.au/events/variants-viruses) |
+| Bacterial varaint calling with Galaxy | 27 May 2021 | 1:00pm - 5:00pm AEST | [Details and Sign Up](https://www.biocommons.org.au/events/variants-bacteria) |
 
 
 <br/>
