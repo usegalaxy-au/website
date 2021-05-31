@@ -18,24 +18,24 @@
 #     - message: |
 #               Galaxy Australia is currently experiencing performance issues with internal data transfer speeds. Please be aware that while jobs are still currently running that the time it is taking for these jobs to complete is much longer than normal. While we are working behind the scenes to rectify this as soon as possible, we currently do not expect this issue to be resolved before the 30th October. There are other options for you if your job is urgent, please reach out to our support service (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>) so we can discuss these with you.
 
-# - title: The scheduled outage has been postponed by our infrastructure partners.
-#   class: warning
-#   site: galaxy
-#   messages:
-#     - message: |
-#             Due to circumstances beyond our control the scheduled outage **will not occur at 17:00 on 30 September 2020 AEST** and job submission will continue as normal beyond 9:00am on the 30 September. While the service is available, we are experiencing longer than normal job queueing times as a consequence of the previously advertised outage. We expected these to resolve in the coming weeks. If you experience any ongoing  issues using the service please contact support for assistance: <a href="mailto:help@genome.edu.au">help@genome.edu.au</a>.
-
-- title: Galaxy Australia Outage Notification - 09/06/2021 - 11/06/2021
-  class: danger
+- title: The scheduled outage has been cancelled by our infrastructure partners.
+  class: warning
   site: galaxy
   messages:
-   - message: |
-            The Galaxy Australia service will be completely offline for a 3 day window from the 9th June 2021 until the 11th June 2021. Our hosting service provider is undergoing a shutdown during this period for essential maintenance and we have been notified that it will effect our service as well.
+    - message: |
+            Our infrastructure partners have let us know that their expected maintenance shutdown from the 9th - 11th June 2021 has been cancelled. This means that Galaxy Australia will **NOT** be undergoing any planned shutdown in June.
 
-            * No new jobs will be accepted from **17:00 on 8 June 2021 AEST**. 
-            * The scheduled outage will then occur from **09:00 9 June - 17:00 11 June 2021 AEST**.
-            
-            If you have planned work during this outage, then please contact the support team as soon as possible, to explore options for your ongoing analyses (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>).
+#- title: Galaxy Australia Outage Notification - 09/06/2021 - 11/06/2021
+# class: danger
+# site: galaxy
+# messages:
+#  - message: |
+#           The Galaxy Australia service will be completely offline for a 3 day window from the 9th June 2021 until the 11th June 2021. Our hosting service provider is undergoing a shutdown during this period for essential maintenance and we have been notified that it will effect our service as well.
+
+#           * No new jobs will be accepted from **17:00 on 8 June 2021 AEST**. 
+#           * The scheduled outage will then occur from **09:00 9 June - 17:00 11 June 2021 AEST**.
+          
+#           If you have planned work during this outage, then please contact the support team as soon as possible, to explore options for your ongoing analyses (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>).
 
 #- title: Galaxy and SARS-CoV-2 Analysis
 #  class: info
