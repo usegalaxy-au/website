@@ -19,14 +19,14 @@
 #               Galaxy Australia is currently experiencing performance issues with external data transfer speeds. The service is stable but very slow and you may experience some browser timeouts. We are aware of the problems and are working towards fixing them. We will update this message as more information comes to hand. If you have any questions, feel free to contact our helpdesk at (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>)
 
 
-- title: Galaxy Australia Performance Improvements
-  class: danger
-  site: galaxy
-  messages:
-    - message: |
-              Galaxy Australia has been currently experiencing slow page loading speeds. We plan to have resolved this issue by C.O.B Wednesday 1st September.
-              In the meantime, we will continue to the suspension of new Job Submissions.
-              We will update this message as more information comes to hand. If you have any questions, feel free to contact our helpdesk at <a href="mailto:help@genome.edu.au">help@genome.edu.au</a>
+# - title: Galaxy Australia Performance Improvements
+#   class: danger
+#   site: galaxy
+#   messages:
+#     - message: |
+#               Galaxy Australia has been currently experiencing slow page loading speeds. We plan to have resolved this issue by C.O.B Wednesday 1st September.
+#               In the meantime, we will continue to the suspension of new Job Submissions.
+#               We will update this message as more information comes to hand. If you have any questions, feel free to contact our helpdesk at <a href="mailto:help@genome.edu.au">help@genome.edu.au</a>
 
 # - title: The scheduled outage has been cancelled by our infrastructure partners.
 #   class: warning
