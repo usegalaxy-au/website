@@ -11,7 +11,7 @@ GalaxyAustralia:
         bio:
     slugger70:
         name: Simon Gladman
-        title: Bioinformatician, Developer, Galaxy Australia
+        title: Bioinformatician, Lead Engineer, Galaxy Australia
         email: simon.gladman@unimelb.edu.au
         phone: +61 3 8344 4803
         location: "Melbourne Bioinformatics, 187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
@@ -28,7 +28,7 @@ GalaxyAustralia:
         bio:
     ChristinaAU:
         name: Christina Hall
-        title: PhD, Training Co-ordinator, Galaxy Australia
+        title: PhD, Communications Lead, Galaxy Australia
         email: crhall@unimelb.edu.au
         location: "Melbourne Bioinformatics, 187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
         twitter: GalaxyAustralia
@@ -40,13 +40,6 @@ GalaxyAustralia:
         location: "Melbourne Bioinformatics, 187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
         twitter: nuwan_ag
         gitter: nuwang
-        bio:
-    thomcuddihy:
-        name: Thom Cuddihy
-        title: Developer, Galaxy Australia
-        email: t.cuddihy1@uq.edu.au
-        location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
-        twitter: thom88
         bio:
     Nick-Rhodes:
         name: Nick Rhodes
@@ -65,3 +58,25 @@ GalaxyAustralia:
         title: Bioinformatician, Galaxy Australia
         email: m.thang@qfab.org
         location: "QFAB, QBP, 306 Carmody Rd, St Lucia QLD 4067"
+    jlqfab:
+        name: Justin Lee
+        title: Software Developer, Project Lead Apollo
+        email: j.lee@qcif.edu.au
+    burkemlou:
+        name: Melissa Burke
+        title: Training Coordinator, Galaxy Australia
+        email: melissa@biocommons.org.au
+    GraceAHall:
+        name: Grace Hall
+        title: Software Developer, Galaxy Australia
+        location: "Melbourne Bioinformatics, 187 Grattan St, Carlton, VIC, AUSTRALIA, 3053"
+        email: gracehall1@unimelb.edu.au
+    Madeline3000:
+        name: Madeline Basetti
+        title: UI/UX Developer, Galaxy Australia
+        email: madeline.basetti@qcif.edu.au
+    neoformit:
+        name: Cameron Hyde
+        title: Software Developer, Galaxy Australia
+        email: c.hyde@qcif.edu.au
+
