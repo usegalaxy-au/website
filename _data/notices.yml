@@ -35,17 +35,18 @@
 #     - message: |
 #             Our infrastructure partners have let us know that their expected maintenance shutdown from the 9th - 11th June 2021 has been cancelled. This means that Galaxy Australia will **NOT** be undergoing any planned shutdown in June.
 
-# - title: Galaxy Australia Outage Notification - 24/08/2021
-#   class: danger
-#   site: galaxy
-#   messages:
-#     - message: |
-#           The Galaxy Australia service will be completely offline on the 24th August 2021 from 07:00 - 17:00 AEST. During this time we will be upgrading Galaxy to the latest version (21.05), moving the service to our new home at AARNet and performing other maintenance.
+- title: Galaxy Australia Outage Notification - 01/11/2021 - 03/11/2021
+  class: danger
+  site: galaxy
+  messages:
+    - message: |
+          The Galaxy Australia service will be completely offline from 09:00 on Monday the 1st November 2021 until 17:00 on Wednesday the 3rd November 2021 AEST. Our infrastructure provider will be upgrading the power supply to their buildings during this time and therefore Galaxy Australia must be switched off.
 
-#           * No new jobs will be accepted from **17:00 on 23rd August 2021 AEST**. 
-#           * The scheduled outage will then occur from **07:00 - 17:00 AEST 24th August**.
+          * No new jobs will be accepted from **17:00 on 31st October 2021 AEST**. 
+          * The scheduled outage will then occur from **09:00 01/11/2021 - 17:00 03/11/2021 AEST**.
+          * Any jobs not complete by the outage time will be terminated.
           
-#           If you have planned work during this outage, then please contact the support team as soon as possible, to explore options for your ongoing analyses (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>).
+          If you have planned work during this outage, then please contact the support team as soon as possible, to explore options for your ongoing analyses (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>).
 
 #- title: Galaxy and SARS-CoV-2 Analysis
 #  class: info
