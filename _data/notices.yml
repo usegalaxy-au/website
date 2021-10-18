@@ -42,8 +42,9 @@
     - message: |
           The Galaxy Australia service will be completely offline from 09:00 on Monday the 1st November 2021 until 17:00 on Wednesday the 3rd November 2021 AEST. Our infrastructure provider will be upgrading the power supply to their buildings during this time and therefore Galaxy Australia must be switched off.
 
-          * No new jobs will be accepted from **17:00 on 29th October 2021 AEST**. 
+          * No new jobs will be accepted from **17:00 on 31st October 2021 AEST**. 
           * The scheduled outage will then occur from **09:00 01/11/2021 - 17:00 03/11/2021 AEST**.
+          * Any jobs not complete by the outage time will be terminated.
           
           If you have planned work during this outage, then please contact the support team as soon as possible, to explore options for your ongoing analyses (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>).
 
