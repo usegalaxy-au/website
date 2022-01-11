@@ -58,16 +58,16 @@
 #            * We have input test data under **Shared Data -> Data Libraries -> COVID-19 Data**
 #            * We have training material to teach best practice analysis at **<a href="https://training.galaxyproject.org" target="_blank">https://training.galaxyproject.org</a>**
 
-- title: Holiday support
-  class: warning
-  site: galaxy
-  messages:
-    - message: |
-              Galaxy Australia will continue to operate over the Christmas Holiday period however, with reduced support capacity. This period will run from 24th December 2021 until the 4th of January 2022.
-              During this time:
-              * No new tools or reference data will be installed
-              * No requests for disk space will be actioned
-              * No support tickets will be responded to
-              We will also have limited service administration capacity and while we will make all reasonable efforts to keep the service running there may be issues outside of our control during this period.
+# - title: Holiday support
+#   class: warning
+#   site: galaxy
+#   messages:
+#     - message: |
+#               Galaxy Australia will continue to operate over the Christmas Holiday period however, with reduced support capacity. This period will run from 24th December 2021 until the 4th of January 2022.
+#               During this time:
+#               * No new tools or reference data will be installed
+#               * No requests for disk space will be actioned
+#               * No support tickets will be responded to
+#               We will also have limited service administration capacity and while we will make all reasonable efforts to keep the service running there may be issues outside of our control during this period.
               
-              The Galaxy Australia administrators wish all of our users a safe and relaxing Christmas and New Year break.
+#               The Galaxy Australia administrators wish all of our users a safe and relaxing Christmas and New Year break.
