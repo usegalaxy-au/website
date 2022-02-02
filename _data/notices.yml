@@ -35,17 +35,17 @@
 #     - message: |
 #             Our infrastructure partners have let us know that their expected maintenance shutdown from the 9th - 11th June 2021 has been cancelled. This means that Galaxy Australia will **NOT** be undergoing any planned shutdown in June.
 
-# - title: Galaxy Australia Outage Notification - 01/02/2022
-#   class: danger
-#   site: galaxy
-#   messages:
-#     - message: |
-#           The Galaxy Australia service will be offline on Tuesday 1st February 2022 from 08:00 until 13:00 AEDT (07:00 - 12:00 AEST). During this time we will be upgrading some of our backend infrastructure with new versions and necessary patches.
+- title: Galaxy Australia Outage Notification - 08/02/2022
+  class: danger
+  site: galaxy
+  messages:
+    - message: |
+          The Galaxy Australia service will be offline on Tuesday 8th February 2022 from 08:00 until 13:00 AEDT (07:00 - 12:00 AEST). During this time we will be upgrading some of our backend infrastructure with new versions and necessary patches.
 
-#           * The scheduled outage will then occur from **08:00 01/02/2022 - 13:00 01/02/2022 AEDT (07:00 - 12:00 AEST)**.
-#           * We do not anticipate the loss of any jobs.
+          * The scheduled outage will then occur from **08:00 08/02/2022 - 13:00 08/02/2022 AEDT (07:00 - 12:00 AEST)**.
+          * We do not anticipate the loss of any jobs.
           
-#           If you have planned work during this outage, then please contact the support team as soon as possible, to explore options for your ongoing analyses (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>).
+          If you have planned work during this outage, then please contact the support team as soon as possible, to explore options for your ongoing analyses (<a href="mailto:help@genome.edu.au">help@genome.edu.au</a>).
 
 #- title: Galaxy and SARS-CoV-2 Analysis
 #  class: info
