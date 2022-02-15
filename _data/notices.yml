@@ -70,3 +70,10 @@
 #               We will also have limited service administration capacity and while we will make all reasonable efforts to keep the service running there may be issues outside of our control during this period.
               
 #               The Galaxy Australia administrators wish all of our users a safe and relaxing Christmas and New Year break.
+
+# - title: GTN Tapas - Smörgåsbord 2
+#   class: info
+#   site: galaxy
+#   messages:
+#     - message: |
+#             <a href="bit.ly/gtntapas"><img alt="Galaxy Australia Logo" src="/assets/media/Galaxy_tapas_email_banner.png" style="height: 150px;padding: 25px"/></a>
